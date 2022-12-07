@@ -1,2 +1,2 @@
 # Sigurnost-racunala-i-podataka
-Repo for saving SRiP progress
+Repo for Computer and data security homework
