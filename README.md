@@ -1,2 +1,2 @@
 # Sigurnost-racunala-i-podataka
-Repo for saving SRIP progess
+Repo for saving SRIP progress
